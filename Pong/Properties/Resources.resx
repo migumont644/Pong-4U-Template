@@ -122,7 +122,7 @@
         AAEAAAD/////AQAAAAAAAAAEAQAAABZTeXN0ZW0uSU8uTWVtb3J5U3RyZWFtCgAAAAdfYnVmZmVyB19v
         cmlnaW4JX3Bvc2l0aW9uB19sZW5ndGgJX2NhcGFjaXR5C19leHBhbmRhYmxlCV93cml0YWJsZQpfZXhw
         b3NhYmxlB19pc09wZW4dTWFyc2hhbEJ5UmVmT2JqZWN0K19faWRlbnRpdHkHAAAAAAAAAAACAggICAgB
-        AQEBCQIAAAAAAAAAAAAAAEQUAABEFAAAAAEAAQoPAgAAAEQUAAACUklGRjwUAABXQVZFZm10IBIAAAAB
+        AQEBCQIAAAAAAAAARBQAAEQUAABEFAAAAAEAAQoPAgAAAEQUAAACUklGRjwUAABXQVZFZm10IBIAAAAB
         AAEARKwAAIhYAQACABAAAABmYWN0BAAAAAAAAABkYXRhxhMAAAcAKwAwADgAAwAiAAMA+v8dAAcAAwD/
         /xAAGAD+/zMAHQAwAPz/9/8hACsAHAAzACEAIAALAAYAZQBKABAAMwBbACUA3v/y/zcAfgBsAIIB/AIr
         Ajj+q/2HDQYyQltObCBT9Boy4aK6a6dMnyGfkKjbthO94LT/pZagfKm6tdO3k67FpVyn9rC5tsSydKqS
@@ -212,12 +212,16 @@
         AAAAAAAAAAs=
 </value>
   </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="paddle_hit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\paddle hit.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="score" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAEAQAAABZTeXN0ZW0uSU8uTWVtb3J5U3RyZWFtCgAAAAdfYnVmZmVyB19v
         cmlnaW4JX3Bvc2l0aW9uB19sZW5ndGgJX2NhcGFjaXR5C19leHBhbmRhYmxlCV93cml0YWJsZQpfZXhw
         b3NhYmxlB19pc09wZW4dTWFyc2hhbEJ5UmVmT2JqZWN0K19faWRlbnRpdHkHAAAAAAAAAAACAggICAgB
-        AQEBCQIAAAAAAAAAAAAAAAYVAAAGFQAAAAEAAQoPAgAAAAYVAAACUklGRv4UAABXQVZFZm10IBIAAAAB
+        AQEBCQIAAAAAAAAABhUAAAYVAAAGFQAAAAEAAQoPAgAAAAYVAAACUklGRv4UAABXQVZFZm10IBIAAAAB
         AAEARKwAAIhYAQACABAAAABmYWN0BAAAAAAAAABkYXRhiBQAAAIA3v/i//j/9v8QAPP/+v/g/+v/3f/v
         /xoA+//E/wgAQQAeAHsAugE5AsD/5/wdA1ga2jyBVaZOiiVN7xTFVrJYsWe3Pr4lwyrEob8/uU+3UbsP
         wQnCzL3EuXG61L6DwcW/MLzpuoG9ssDbwD++7bvyvNK/WMHdv3a9Eb31vhLB7cAqv8692b7LwGHBWsD2
@@ -309,5 +313,8 @@
         AAMACgD5/9X/1f/R/3NtcGw8AAAAAAAAAAAAAACTWAAAPAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA
         AAAAAAAAAAAARAoAAAAAAAAAAAAACw==
 </value>
+  </data>
+  <data name="wall_bounce" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\wall bounce.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
 </root>
